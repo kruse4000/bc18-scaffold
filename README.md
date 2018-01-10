@@ -52,3 +52,12 @@ The Battlecode server will initialize, after a few moments, you will be shown a 
 You can no longer input commands into Docker Toolbox, this is normal.
 
 Navigate to http://192.168.99.100:6147/run.html in your browser.
+
+
+### Online Client No Dropdown Bug
+
+If you can't find the example players or the the dropdown doesn't appear, restart your computer.
+
+After restarting follow the above steps again, opening up the Quickstarter, navigating to the bc18 directory and typing in "bash run.sh"
+
+After reconnecting opening the browser and going to http://192.168.99.100:6147/run.html should resolve the problem.
